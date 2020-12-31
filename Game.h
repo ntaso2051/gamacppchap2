@@ -3,7 +3,7 @@
 #include <unordered_map>
 #include <vector>
 
-#include "SDL.h"
+#include "SDL/SDL.h"
 
 class Game {
  public:
